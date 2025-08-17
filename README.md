@@ -39,5 +39,3 @@ The app provides real-time editing features with a **responsive UI**, ensuring b
 - Enhanced productivity with real-time preview filters.
 
 - User-friendly interface designed for accessibility.
-
-- 
